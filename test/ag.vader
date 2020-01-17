@@ -1,0 +1,9 @@
+Given (Simple to search):
+  fake_content
+
+Execute:
+  Ag fake_content
+
+Do:
+  \<Enter>
+
